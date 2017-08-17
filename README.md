@@ -11,3 +11,7 @@ Você pode instalar a extensão através do Chrome Web Store: https://chrome.goo
 ## Uso básico
 
 Após instalada, a extensão atuará apenas na página inicial do SIGAA buscando o tópico `"Apostila de lógica"` no fórum do curso na parte inferior e, caso ele encontre o tópico, ele realizará a ocultação da tag `<tr>` correspondente.
+
+A extensão adicionará um ícone ao lado da sua barra de endereço no Chrome:
+
+![Imgur](http://i.imgur.com/nZwAAvH.png)

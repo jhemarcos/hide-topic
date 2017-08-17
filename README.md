@@ -6,7 +6,7 @@ Uma extensão do navegador Chrome para ocultar o tópico inútil intitulado `"Ap
 
 ## Instalação
 
-Você pode instalar a extensão através do Chrome Web Store: https://chrome.google.com/webstore/detail/scholar-ninja/mngpckgljabecionknlpnnbamopcehgp
+Você pode instalar a extensão através do Chrome Web Store: https://chrome.google.com/webstore/detail/hide-topic/gijgpoflobminoehggiechkjpghankbc?hl=pt-BR
 
 ## Uso básico
 

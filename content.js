@@ -1,6 +1,4 @@
-window.onload = function(){
-    console.log("page load!");
-
+window.onload = function() {
     var divForum = document.getElementById("forum-portal");
     var tableTds = divForum.getElementsByTagName("a");
 
